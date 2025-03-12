@@ -1,4 +1,4 @@
-package replace
+package mymodule_dep
 
 import (
 	"strings"
